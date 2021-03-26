@@ -5,8 +5,8 @@ theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   Repositório de arquivos e informações da turma de ciências contábeis 2019/1 UFMT Campus Cuiabá.
 # social links
-github_username:  willalvin # DO NOT include the @ character, or else the build will fail!
-facebook_username: willalvin 
+facebook_username: pwalvin 
 instagram_username: willalvin
+github_username:  willalvin # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
