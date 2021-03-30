@@ -1,8 +1,7 @@
 title: Bem-vindo Sonegador
 author: PWA
 email: paulowilliam.alvin@gmail.com
-theme: jekyll-theme-tactile
-text_skin: ocean 
+theme: minima 
 
 description: > # this means to ignore newlines until "baseurl:"
   Repositório de arquivos e informações da turma de Ciências Contábeis 2019/1 UFMT Campus Cuiabá.
