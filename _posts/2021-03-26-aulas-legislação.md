@@ -1,3 +1,4 @@
+<link rel="stylesheet" type="text/css" href="https://willalvin.github.io/bem-vindo-sonegador/style.css">
 ---
 title: "Aulas de Legislação Trabalhista e Previdenciária"
 date: 2021-03-26
