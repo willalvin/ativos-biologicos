@@ -26,5 +26,3 @@ Basta clicar e fazer o download do conteúdo.
 
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/exercicio1_cc.pdf?raw=true" title="Exercício 1 - Resolução">Exercício 1 - Resolução</a>
 
-
-{% include advertisements.html %}
