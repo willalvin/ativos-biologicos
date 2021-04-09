@@ -1,1 +1,1 @@
-Mensagens
+Conteúdo atualizado semanalmente
