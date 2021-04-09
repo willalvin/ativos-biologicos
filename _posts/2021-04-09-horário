@@ -1,0 +1,32 @@
+--
+title: Horário das aulas
+date: 2021-04-09
+--
+
+<table style="width:100%">
+  <tr>
+    <th>Segunda</th>
+    <th>Direito Financeiro</th>
+    <th>Direito Financeiro</th>
+  </tr>
+  <tr>
+    <td>Terça</td>
+    <td>Legislação T/P</td>
+    <td>Ética</td>
+  </tr>
+  <tr>
+    <td>Quarta</td>
+    <td>Metodologia</td>
+    <td>Metodologia</td>
+  </tr>
+    <tr>
+    <td>Quinta</td>
+    <td>Cont. Comercial</td>
+    <td>Cont. Comercial</td>
+  </tr>
+    <tr>
+    <td>Sexta</td>
+    <td>Ética</td>
+    <td>Legislação T/P</td>
+  </tr>
+</table>
