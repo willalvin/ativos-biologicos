@@ -2,6 +2,9 @@
 title: "Material de Contabilidade Comercial"
 date: 2021-04-08
 ---
+Conteúdo das aulas de Comercial.
+
+Basta clicar e fazer o download do conteúdo.
 
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/Modelos%20-%20Plano%20de%20Contas.doc?raw=true" title="Modelo de Plano de Contas">Modelo de Plano de Contas</a>
 
