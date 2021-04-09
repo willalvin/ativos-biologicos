@@ -14,3 +14,12 @@ Basta clicar e fazer o download do conteúdo.
 
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/SLIDE%2001%20-%20INTRODU%C3%87%C3%83O%20A%20CONTABILIDADE%20COMERCIAL%20-%20alunos.pptxhttps://github.com/willalvin/bem-vindo-sonegador/_posts/arquivos/contabilidade-comercial-manoel-martins-do-carmo-filho.pdf?raw=true" title="Livro: Contabilidade Comercial de Manoel Martins do Carmo Filho">Livro: Contabilidade Comercial de Manoel Martins do Carmo Filho</a>
 
+Exercícios e Resoluções
+
+<a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/EXERC%C3%8DCIO%2001-%20ESTRUTURA%20DE%20BP%20E%20DRE.docx?raw=true" title="Exercício 2">Exercício 2</a>
+
+<a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/exercicio2_cc.pdf?raw=true" title="Exercício 2 - Resolução">Exercício 2 - Resolução</a>
+
+<a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/Exerc%C3%ADcio%20Inicial-%20Contabilidade%20Comercial.doc?raw=true" title="Exercício 1">Exercício 1</a>
+
+<a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/exercicio1_cc.pdf?raw=true" title="Exercício 1 - Resolução">Exercício 1 - Resolução</a>
