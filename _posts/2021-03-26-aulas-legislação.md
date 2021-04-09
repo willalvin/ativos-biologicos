@@ -2,6 +2,7 @@
 title: "Aulas de Legislação Trabalhista e Previdenciária"
 date: 2021-03-26
 ---
+Aulas gravadas e disponíveis via You-Tube.
 
 As primeira e segunda aulas foram aulas introdutórias que a professora resume no início da 3ª aula.
 
