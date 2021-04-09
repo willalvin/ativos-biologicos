@@ -1,8 +1,9 @@
-<link rel="stylesheet" type="text/css" href="https://willalvin.github.io/bem-vindo-sonegador/style.css">
 ---
 title: "Aulas de Legislação Trabalhista e Previdenciária"
 date: 2021-03-26
 ---
+<link rel="stylesheet" type="text/css" href="https://willalvin.github.io/bem-vindo-sonegador/style.css">
+
 Aulas gravadas e disponíveis via YouTube.
 
 As primeira e segunda aulas foram aulas introdutórias que a professora resume no início da 3ª aula.
