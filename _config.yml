@@ -9,5 +9,6 @@ description: > # this means to ignore newlines until "baseurl:"
 linkedin_username: paulowalvin
 facebook_username: paulowalvin
 instagram_username: paulowalvin
+twitter_username: paulowalvin
 
 show_excerpts: true # set to false to remove excerpts on the homepage
