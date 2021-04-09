@@ -8,12 +8,12 @@ minima:
 
 description: > # this means to ignore newlines until "baseurl:"
   Repositório de arquivos e informações da turma de Ciências Contábeis 2019/1 UFMT Campus Cuiabá.
-# social links    
-social_links:
-    twitter: paulowalvin
-    linkedin: paulowalvin
-    facebook: paulowalvin
-    instagram: paulowalvin
+
+# social links
+twitter_username: paulowalvin # DO NOT include the @ character, or else the build will fail!
+linkedin_username: paulowalvin # DO NOT include the @ character, or else the build will fail!
+facebook_username: paulowalvin
+instagram_username: paulowalvin
 
 show_excerpts: false # set to false to remove excerpts on the homepage
 
