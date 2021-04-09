@@ -11,5 +11,23 @@ social_links:
     linkedin: paulowalvin
     facebook: paulowalvin
     twitter: paulowalvin
+    
+      # generate social links in footer
+  social_links:
+    twitter: paulowalvin
+    # devto: jekyll
+    # dribbble: jekyll
+    facebook: paulowalvin
+    # flickr:   jekyll
+    instagram: paulowalvin
+    linkedin: paulowalvin
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # telegram: jekyll
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+    # keybase: jekyll
 
 show_excerpts: true # set to false to remove excerpts on the homepage
