@@ -25,3 +25,6 @@ Basta clicar e fazer o download do conteúdo.
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/Exerc%C3%ADcio%20Inicial-%20Contabilidade%20Comercial.doc?raw=true" title="Exercício 1">Exercício 1</a>
 
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/exercicio1_cc.pdf?raw=true" title="Exercício 1 - Resolução">Exercício 1 - Resolução</a>
+
+
+{% include advertisements.html %}
