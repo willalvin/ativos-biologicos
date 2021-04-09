@@ -36,3 +36,6 @@ As primeira e segunda aulas foram aulas introdutórias que a professora resume n
 
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FbK9WBCY3oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
+
+
+{% include advertisements.html %}
