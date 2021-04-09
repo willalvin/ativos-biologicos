@@ -20,7 +20,7 @@ As primeira e segunda aulas foram aulas introdutórias que a professora resume n
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">6ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2lY43g_yyZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HN3lVrn0-Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">7ª Aula</p></b></div>
 
