@@ -42,6 +42,10 @@ As primeira e segunda aulas foram aulas introdutórias que a professora resume n
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KhY-0OVI-Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
+<div style="text-align:center"><b><p style="background-color:SlateBlue;">10ª Aula</p></b></div>
+
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AWjq7LDT1cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">Materiais</p></b></div>
 
