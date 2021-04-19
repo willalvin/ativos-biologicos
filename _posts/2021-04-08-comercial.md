@@ -27,3 +27,5 @@ Basta clicar e fazer o download do conteúdo.
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/exercicio1_cc.pdf?raw=true" title="Exercício 1 - Resolução">Exercício 1 - Resolução</a>
 
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/ex_dlpa.pdf?raw=true" title="Exercício DLPA - Resolução">Exercício DLPA - Resolução</a>
+
+<a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/Exerc%C3%ADcio%20de%20Contabiliza%C3%A7%C3%A3o%20-%20Resposta.xlsx?raw=true" title="Exercício de Contabilização - Resolução">Exercício de Contabilização - Resolução</a>
