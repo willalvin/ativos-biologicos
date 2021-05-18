@@ -72,6 +72,11 @@ As primeira e segunda aulas foram aulas introdutórias que a professora resume n
 <div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3z6v1g8WQMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
+<div style="text-align:center"><b><p style="background-color:SlateBlue;">Aula Final</p></b></div>
+
+<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/baWrTPBEEeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<br>
+
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">Materiais</p></b></div>
 
 <a href="https://github.com/willalvin/bem-vindo-sonegador/blob/main/_posts/arquivos/Direito_Trabalhista_Previdenci%C3%A1rio_Slides3.pptx?raw=true" title="Slides 1">Slides 1</a>
