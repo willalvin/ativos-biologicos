@@ -1,7 +1,6 @@
 ---
 title: "Avaliações Institucionais"
 date: 2021-05-14
-permalink: pretty
 ---
 Links para os formulários de avaliação institucionais. Prazo de até 19/05 para enviar os formulários.
 
