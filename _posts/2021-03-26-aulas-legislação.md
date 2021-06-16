@@ -14,67 +14,67 @@ As primeira e segunda aulas foram aulas introdutórias que a professora resume n
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">4ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0UUVdjP4o9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/0UUVdjP4o9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">5ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/2lY43g_yyZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/2lY43g_yyZs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">6ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HN3lVrn0-Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/HN3lVrn0-Lc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">7ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/tI06Vs9aYAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/tI06Vs9aYAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">8ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FbK9WBCY3oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/FbK9WBCY3oc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">9ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KhY-0OVI-Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/KhY-0OVI-Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">10ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AWjq7LDT1cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/AWjq7LDT1cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">11ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/sUGMa5ncNjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/sUGMa5ncNjk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">12ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/IjWTmXGqhSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/IjWTmXGqhSk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">13ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/O5EOecwuyfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/O5EOecwuyfU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">14ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OpS-5I9He70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/OpS-5I9He70" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">15ª Aula</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3z6v1g8WQMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/3z6v1g8WQMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">Aula Final</p></b></div>
 
-<div style="text-align:center"><iframe width="560" height="315" src="https://www.youtube.com/embed/baWrTPBEEeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="container"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/baWrTPBEEeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 
 <div style="text-align:center"><b><p style="background-color:SlateBlue;">Materiais</p></b></div>
