@@ -4,7 +4,7 @@ email: paulowilliam.alvin@gmail.com
 theme: minima 
 
 minima:
-  permalink: /:title/
+  permalink: /:categories/:year/:month/:day/:title:output_ext
   social_links:
     twitter: paulowalvin
     facebook: paulowalvin
