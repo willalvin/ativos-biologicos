@@ -4,12 +4,12 @@ permalink: aulas-empresarial
 ---
 <style>
 .resp-container {
-    position: relative;
+    position: center;
     overflow: hidden;
     padding-top: 56.25%;
 
 .resp-iframe {
-    position: absolute;
+    position: center;
     top: 0;
     left: 0;
     width: 100%;
