@@ -1,6 +1,5 @@
 ---
 title: "Aulas de Legislação Trabalhista e Previdenciária"
-permalink: /:title/
 ---
 Aulas gravadas e disponíveis via YouTube.
 
