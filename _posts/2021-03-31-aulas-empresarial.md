@@ -47,3 +47,8 @@ permalink: aulas-empresarial
 <div class="container">
 <div style="text-align:center"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/_Ya9vd22b9w"></iframe></div></div>
 <br>
+<div style="text-align:center"><b><p style="background-color:SlateBlue;">10ª Aula</p></b></div>
+<br>
+<div class="container">
+<div style="text-align:center"><iframe class="responsive-iframe" src="https://www.youtube.com/embed/bUo4360yGSE"></iframe></div></div>
+<br>
